@@ -1,0 +1,5 @@
+C:\Users\satwadhir\Desktop\ActiveTheApp\ActiveTheApp\MornaLicensing\bin\Debug\MornaLicensing.dll
+C:\Users\satwadhir\Desktop\ActiveTheApp\ActiveTheApp\MornaLicensing\bin\Debug\MornaLicensing.pdb
+C:\Users\satwadhir\Desktop\ActiveTheApp\ActiveTheApp\MornaLicensing\obj\Debug\MornaLicensing.csproj.CoreCompileInputs.cache
+C:\Users\satwadhir\Desktop\ActiveTheApp\ActiveTheApp\MornaLicensing\obj\Debug\MornaLicensing.dll
+C:\Users\satwadhir\Desktop\ActiveTheApp\ActiveTheApp\MornaLicensing\obj\Debug\MornaLicensing.pdb
